@@ -14,9 +14,9 @@ You have probably arrived here because you think that the official Jenkins UI is
 
 1. Click `Configure System` and scroll down to `Theme`
 
-1. Fill the `URL of theme CSS` field with `https://cdn.rawgit.com/artberri/jenkins-reloaded-theme/master/dist/reloaded.css`
+1. Fill the `URL of theme CSS` field with `https://cdn.rawgit.com/Joshua-Ashton/jenkins-reloaded-theme/master/dist/reloaded.css`
 
-1. Fill the `URL of theme JS` field with `https://cdn.rawgit.com/artberri/jenkins-reloaded-theme/master/dist/reloaded.min.js`
+1. Fill the `URL of theme JS` field with `https://cdn.rawgit.com/Joshua-Ashton/jenkins-reloaded-theme/master/dist/reloaded.min.js`
 
 1. Click `Save`
 
